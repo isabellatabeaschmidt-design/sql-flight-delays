@@ -1,0 +1,5 @@
+visibility,flights,share_of_flights_pct,avg_dep_delay_min,delayed_over_15_pct
+1: under 1 mile,3620,1.1,29.7,32.6
+2: 1 to 3 miles,8395,2.6,25.4,34.9
+3: 3 to 10 miles,41318,12.6,19.7,27.4
+4: 10 miles (clear),273660,83.7,11.0,20.1

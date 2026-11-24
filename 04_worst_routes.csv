@@ -1,0 +1,10 @@
+origin,delay_rank,dest,dest_name,flights,avg_arr_delay_min
+EWR,1,RIC,Richmond Intl,1667,25.8
+EWR,2,MKE,General Mitchell Intl,1094,24.0
+EWR,3,DSM,Des Moines Intl,411,23.5
+JFK,1,CMH,Port Columbus Intl,742,22.9
+JFK,2,CVG,Cincinnati Northern Kentucky Intl,997,19.1
+JFK,3,CLE,Cleveland Hopkins Intl,707,17.4
+LGA,1,CAK,Akron Canton Regional Airport,864,19.7
+LGA,2,IAD,Washington Dulles Intl,1803,13.7
+LGA,3,ATL,Hartsfield Jackson Atlanta Intl,10263,11.3

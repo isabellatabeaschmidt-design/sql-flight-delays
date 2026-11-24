@@ -1,0 +1,7 @@
+check_name,value
+flights in total,336776
+cancelled (no dep_time),8255
+"departed, but arr_delay missing",1175
+flights whose tailnum is not in planes,50094
+duplicate flight keys,0
+flights without weather record,1556
